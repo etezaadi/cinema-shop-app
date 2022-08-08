@@ -46,7 +46,7 @@ Orders contain information about purchased tickets with order date and user to w
 * Apache Maven
 
 ## How to Run this Project
-1. Install MySQL and Apache Tomcat 9.0.54. <br/>
+1. Install MySQL and Apache Tomcat. <br/>
 2. Create empty database. <br/>
 3. Clone this project. <br/>
 4. Edit database connection information(URL, username, password) in db.properties in resources folder. <br/>
